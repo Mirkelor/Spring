@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="bookmarks" type="directory" displayName="root">
+    <programming type="directory" displayName="Programming">
+      <xe403b698-ff46-4b00-8cc4-0fcdaf0e5331 type="bookmark" displayName="Slashdot" url="http://www.slashdot.com" />
+      <x39d7765b-cfee-49be-b808-c988464584bc type="bookmark" displayName="Macrumors" url="http://www.macrumors.com" />
+      <x35e03883-df61-415a-973f-78958edc2425 type="bookmark" displayName="Stackoverflow" url="http://www.stackoverflow.com" />
+      <x033669af-e3e1-45c9-8dcb-bf5d3b4f8bf1 type="bookmark" displayName="Google" url="http://www.google.com" />
+      <xb9c24f20-ab9b-4dc3-b60f-43a0732a8862 type="bookmark" displayName="Basecamp" url="http://www.basecamp.com" />
+    </programming>
+  </component>
+</project>
